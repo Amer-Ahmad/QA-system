@@ -79,7 +79,7 @@ ps: (if an answer got mentioned twice that means it matches with more than one r
 
 * is in numerous metrics of national performance, including education, economic competitiveness, civil liberties, quality of life, and human development -- 0.256
 
-* the final answer: Finland is in Northern Europe bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Norway to the north, Sweden to the northwest, and Russia to the east.
+### the final answer: Finland is in Northern Europe bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Norway to the north, Sweden to the northwest, and Russia to the east.
 
 
-### notes: I added searchinwiki subroutine that will try to search for all possible bigrams and trigrams of the question as if the whole question was long and could not be found in wikipedia, this would give a higher chance of finding a match in wikipedia.
+#### notes: I added searchinwiki subroutine that will try to search for all possible bigrams and trigrams of the question as if the whole question was long and could not be found in wikipedia, this would give a higher chance of finding a match in wikipedia.
